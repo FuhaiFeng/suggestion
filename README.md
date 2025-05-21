@@ -50,7 +50,10 @@ Returns a single random motivational message.
 ```bash
  "Take a deep breath and smile"
 ```
-
+You can test it in your browser:
+```bash
+ http://127.0.0.1:8000/suggestion
+```
 ##License
 This project is for educational use only. No license specified.
 
