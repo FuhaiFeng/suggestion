@@ -1,7 +1,7 @@
 ## Suggestion Microservice
 This microservice returns a random motivational suggestion to the user.
 It is built using FastAPI and reads from a local messages.json file.
-Setup Instructions
+##Setup Instructions
 1. Clone the Repository
 Clone this repository to your local machine.
 
@@ -51,7 +51,7 @@ Returns a single random motivational message.
  "Take a deep breath and smile"
 ```
 
-License
+##License
 This project is for educational use only. No license specified.
 
 
