@@ -1,4 +1,4 @@
- Suggestion Microservice
+## Suggestion Microservice
 This microservice returns a random motivational suggestion to the user.
 It is built using FastAPI and reads from a local messages.json file.
 Setup Instructions
